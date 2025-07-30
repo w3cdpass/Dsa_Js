@@ -1,0 +1,423 @@
+The sun rises in the east.
+
+Birds sing in the morning.
+
+She reads a book every night.
+
+The cat sleeps on the sofa.
+
+He drinks coffee every morning.
+
+The sky is blue today.
+
+Children play in the park.
+
+The dog barks loudly.
+
+Flowers bloom in spring.
+
+She writes in her diary daily.
+
+The train arrives at noon.
+
+He rides his bike to work.
+
+The baby cries when hungry.
+
+Rain falls softly outside.
+
+They eat dinner together.
+
+The phone rings constantly.
+
+She loves chocolate ice cream.
+
+The wind blows the leaves.
+
+He fixes broken computers.
+
+The moon shines at night.
+
+She dances gracefully.
+
+The river flows swiftly.
+
+He paints beautiful pictures.
+
+The clock ticks loudly.
+
+They watch movies on weekends.
+
+The teacher explains the lesson.
+
+She buys fresh vegetables.
+
+The car stops at the light.
+
+He studies for his exams.
+
+The fire burns brightly.
+
+She listens to music often.
+
+The door creaks when opened.
+
+He runs five miles daily.
+
+The baby laughs happily.
+
+They travel every summer.
+
+The spider weaves a web.
+
+She bakes delicious cookies.
+
+The snow covers the ground.
+
+He plays the guitar well.
+
+The stars twinkle at night.
+
+She wears a red dress.
+
+The fish swim in the pond.
+
+He fixes the broken chair.
+
+The airplane flies overhead.
+
+They build a sandcastle.
+
+The bee collects nectar.
+
+She waters the plants.
+
+The clock strikes twelve.
+
+He carries a heavy bag.
+
+The tree sways in the wind.
+
+She answers the phone.
+
+The sun sets in the west.
+
+He writes a letter.
+
+The cat chases the mouse.
+
+They celebrate with cake.
+
+The baby sleeps peacefully.
+
+She sweeps the floor.
+
+The dog wags its tail.
+
+He climbs the mountain.
+
+The rain stops suddenly.
+
+She folds the laundry.
+
+The boat floats on water.
+
+He buys a new laptop.
+
+The owl hoots at night.
+
+They plant a small tree.
+
+The butterfly lands gently.
+
+She combs her hair.
+
+The car honks loudly.
+
+He washes the dishes.
+
+The wind howls outside.
+
+She ties her shoelaces.
+
+The horse gallops fast.
+
+He takes a deep breath.
+
+The candle flickers softly.
+
+They share their food.
+
+The frog jumps into the pond.
+
+She picks fresh flowers.
+
+The thunder rumbles loudly.
+
+He reads the newspaper.
+
+The child draws a picture.
+
+She opens the window.
+
+The waves crash on shore.
+
+He mows the lawn.
+
+The squirrel climbs the tree.
+
+They sing a happy song.
+
+The lamp lights the room.
+
+She packs her suitcase.
+
+The duck swims in the lake.
+
+He fixes the leaky faucet.
+
+The snow melts quickly.
+
+
+
+    The sun rises in the east.
+
+    Birds sing in the morning.
+
+    She reads a book every night.
+
+    The cat sleeps on the sofa.
+
+    He drinks coffee every morning.
+
+    The sky is blue today.
+
+    Children play in the park.
+
+    The dog barks loudly.
+
+    Flowers bloom in spring.
+
+    She writes in her diary daily.
+
+    The train arrives at noon.
+
+    He rides his bike to work.
+
+    The baby cries when hungry.
+
+    Rain falls softly outside.
+
+    They eat dinner together.
+
+    The phone rings constantly.
+
+    She loves chocolate ice cream.
+
+    The wind blows the leaves.
+
+    He fixes broken computers.
+
+    The moon shines at night.
+
+    She dances gracefully.
+
+    The river flows swiftly.
+
+    He paints beautiful pictures.
+
+    The clock ticks loudly.
+
+    They watch movies on weekends.
+
+    The teacher explains the lesson.
+
+    She buys fresh vegetables.
+
+    The car stops at the light.
+
+    He studies for his exams.
+
+    The fire burns brightly.
+
+    She listens to music often.
+
+    The door creaks when opened.
+
+    He runs five miles daily.
+
+    The baby laughs happily.
+
+    They travel every summer.
+
+    The spider weaves a web.
+
+    She bakes delicious cookies.
+
+    The snow covers the ground.
+
+    He plays the guitar well.
+
+    The stars twinkle at night.
+
+    She wears a red dress.
+
+    The fish swim in the pond.
+
+    He fixes the broken chair.
+
+    The airplane flies overhead.
+
+    They build a sandcastle.
+
+    The bee collects nectar.
+
+    She waters the plants.
+
+    The clock strikes twelve.
+
+    He carries a heavy bag.
+
+    The tree sways in the wind.
+
+    She answers the phone.
+
+    The sun sets in the west.
+
+    He writes a letter.
+
+    The cat chases the mouse.
+
+    They celebrate with cake.
+
+    The baby sleeps peacefully.
+
+    She sweeps the floor.
+
+    The dog wags its tail.
+
+    He climbs the mountain.
+
+    The rain stops suddenly.
+
+    She folds the laundry.
+
+    The boat floats on water.
+
+    He buys a new laptop.
+
+    The owl hoots at night.
+
+    They plant a small tree.
+
+    The butterfly lands gently.
+
+    She combs her hair.
+
+    The car honks loudly.
+
+    He washes the dishes.
+
+    The wind howls outside.
+
+    She ties her shoelaces.
+
+    The horse gallops fast.
+
+    He takes a deep breath.
+
+    The candle flickers softly.
+
+    They share their food.
+
+    The frog jumps into the pond.
+
+    She picks fresh flowers.
+
+    The thunder rumbles loudly.
+
+    He reads the newspaper.
+
+    The child draws a picture.
+
+    She opens the window.
+
+    The waves crash on shore.
+
+    He mows the lawn.
+
+    The squirrel climbs the tree.
+
+    They sing a happy song.
+
+    The lamp lights the room.
+
+    She packs her suitcase.
+
+    The duck swims in the lake.
+
+    He fixes the leaky faucet.
+
+    The snow melts quickly.
+
+    She brushes her teeth.
+
+    The kite flies high.
+
+    He catches the ball.
+
+    The rooster crows at dawn.
+
+    They walk hand in hand.
+
+    The apple falls from the tree.
+
+    She stirs the soup.
+
+    The tiger roars fiercely.
+
+    He builds a wooden shelf.
+
+    The clouds drift slowly.
+
+(Continuing up to 1200 lines...)
+
+    She cuts the paper carefully.
+
+    The snail moves slowly.
+
+    He buys a new jacket.
+
+    The moon reflects on water.
+
+    They laugh at the joke.
+
+    The key unlocks the door.
+
+    She folds the napkins neatly.
+
+    The wolf howls at night.
+
+    He paints the fence.
+
+    The ice cracks underfoot.
+
+    She feeds the hungry cat.
+
+    The bell rings for class.
+
+    He solves the puzzle.
+
+    The sun warms the earth.
+
+    They whisper secrets.
+
+    The pen writes smoothly.
+
+    She plants a rose bush.
+
+    The fox hides in the bushes.
+
+    He carries the groceries.
+
+    The river floods the banks.
